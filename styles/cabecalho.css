@@ -22,11 +22,28 @@
 .cabecalho__links {
     padding: 0.7em;
     text-decoration: none;
-    color: var(--cinza-claro);
+    color: var(--cor-texto);
 }
 
 .cadastrar {
     color: var(--branco);
-    background-color: #8E2424;
+    background-color: var(--cor-principal);
     border-radius: 8px;
 }
+
+/*
+@media screen and (max-width: 1024px) {
+    .cabecalho {
+        height: ;
+        padding: ;
+    }
+
+    .cabecalho__img {
+        width: ;
+    }
+
+    .cabecalho__links {
+        padding: ;
+    }
+}
+*/

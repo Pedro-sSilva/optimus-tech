@@ -1,0 +1,35 @@
+.sobre {
+    text-align: center;
+    padding: 6.67vw 20%;
+}
+
+.sobre__span {
+    color: var(--cor-principal);
+}
+
+.sobre__titulo {
+    font-size: 2.77vw;
+    padding: 1.67vw 0;
+}
+
+.sobre__texto {
+    font-size: 1.39vw;
+    color: var(--cor-texto);
+}
+
+/*
+@media screen and (max-width: 1024px) {
+    .sobre {
+        padding: ;
+    }
+    
+    .sobre__titulo {
+        font-size: ;
+        padding: ;
+    }
+    
+    .sobre__texto {
+        font-size: ;
+    }
+}
+*/
