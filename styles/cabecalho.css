@@ -31,19 +31,17 @@
     border-radius: 8px;
 }
 
-/*
 @media screen and (max-width: 1024px) {
     .cabecalho {
-        height: ;
-        padding: ;
+        height: 10vh;
+        padding: 1.388vw 5.555vw;
     }
 
     .cabecalho__img {
-        width: ;
+        width: 16.68vw;
     }
 
     .cabecalho__links {
-        padding: ;
+        padding: 1.134em;
     }
 }
-*/

@@ -1,0 +1,33 @@
+.talentos {
+    text-align: center;
+    margin: 10vh 0;
+    height: 80vh;
+}
+
+.talentos__span, .talentos__titulo {
+    font-weight: 600;
+}
+
+.talentos__span {
+    color: var(--cor-principal);
+    padding: 0.555vw 0.833vw;
+    border-radius: 16px;
+    background-color: var(--cor-principal-transparente);
+}
+
+.talentos__titulo {
+    font-size: 2.5vw;
+    margin: 1.111vw 0 1.388vw 0;
+}
+
+.talentos__texto {
+    font-size: 1.388vw;
+    color: var(--cor-texto);
+}
+
+.talentos__img {
+    width: 88.88vw;
+    margin: 4.444vw 2.222vw 0 2.222vw;
+}
+
+/*  Para tela de max-width: 1024px, eu mative a mesma comfiguração desktop. */
