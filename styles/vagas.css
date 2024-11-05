@@ -1,0 +1,44 @@
+.vagas {
+    align-items: center;
+    position: relative;
+    margin: 0 auto 2.222vw auto;
+}
+
+.vagas__lista-titulo {
+    font-size: 1.388vw;
+    line-height: 2.088vw;
+    margin: 4.444vw auto 2.222vw auto;
+    width: 50%;
+}
+
+.vagas__lista {
+    display: flex;
+    flex-direction: column;
+    gap: 1.666vw;
+
+    margin: 0 auto;
+    
+    width: 50%;
+}
+
+.vagas__lista-item {
+    border: 1px solid var(--cor-texto);
+    border-radius: 16px;
+
+    padding: 1.666vw;
+    height: 5.833vw;
+}
+
+.vagas__lista-titulo-vaga {
+    font-size: 1.25vw;
+    line-height: 1.944vw;
+    margin-bottom: 2.222vw;
+}
+
+.vagas__lista-texto {
+    color: var(--cor-texto);
+    line-height: 1.666vw;
+
+    display: inline;
+    padding-right: 1.666vw;
+}

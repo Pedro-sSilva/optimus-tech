@@ -1,0 +1,51 @@
+.rodape {
+    text-align: center;
+    margin: 96px 0;
+}
+
+.rodape__acompanhe {
+    margin: 0 304px;
+    padding: 0 32px;
+    height: 182px;
+}
+
+.acompanhe__titulo {
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 600;
+}
+
+.acompanhe__texto {
+    color: var(--cor-texto);
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.acompanhe__email, .acompanhe__submit {
+    border-radius: 8px;
+}
+
+.acompanhe__email {
+    width: 360px;
+    height: 24px;
+    margin-top: 40px;
+    padding: 11px 15px;
+    border: 1px solid var(--cor-texto);
+}
+
+.acompanhe__submit {
+    background-color: var(--cor-principal);
+    color: var(--branco);
+    line-height: 24px;
+    width: 116px;
+    height: 48px;
+    margin-left: 16px;
+    border: 1px solid var(--cor-principal);
+}
+
+.rodape__texto {
+    color: var(--cor-texto);
+    line-height: 24px;
+    padding-top: 32px;
+}

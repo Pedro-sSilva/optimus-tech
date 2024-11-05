@@ -1,0 +1,39 @@
+.depoimento {
+    margin: 0 5.555vw 6.666vw 5.555vw;
+    padding: 0 32px;
+}
+
+.depoimento__card {
+    background-color: var(--cor-principal-transparente);
+    border-radius: 16px;
+    padding: 4.444vw;
+    text-align: center;
+}
+
+.depoimento__span {
+    color: var(--cor-principal);
+    font-weight: 600;
+    line-height: 1.388vw;
+}
+
+.depoimento__texto {
+    font-size: 2.499vw;
+    line-height: 3.055vw;
+
+    margin: 1.111vw 0 2.222vw 0;
+}
+
+.depoimento__usuario-img {
+    width: 3.888vw;
+}
+
+.depoimento__usuario-nome {
+    line-height: 1.666vw;
+
+    margin: 1.111vw 0 0.277vw 0;
+}
+
+.depoimento__usuario-cargo {
+    color: var(--cor-texto);
+    line-height: 1.388vw;
+}
