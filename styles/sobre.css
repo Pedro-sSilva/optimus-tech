@@ -23,25 +23,3 @@
     color: var(--cor-texto);
     line-height: 2.08vw;
 }
-
-@media screen and (max-width: 1024px) {
-    .sobre {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        text-align: left;
-        height: 90vh;
-        padding: 0 15%;
-    }
-    
-    .sobre__titulo {
-        font-size: 4.16vw;
-        padding: 2.70vw 0;
-    }
-    
-    .sobre__texto {
-        font-size: 1.736vw;
-        line-height: 2.77vw;
-        padding-bottom: 10vh;
-    }
-}

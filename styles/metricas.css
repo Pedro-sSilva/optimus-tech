@@ -26,26 +26,3 @@
     color: var(--cor-texto);
     line-height: 1.74vw;
 }
-
-@media screen and (max-width: 1024px) {
-    .metricas {
-        display: grid;
-        grid-template-columns: auto auto;
-        gap: 6.95vw;
-        height: 70vh;
-        padding: 15vh 20%;
-        margin: 0 5.55vw;
-    }
-    
-    .metricas__div-span {
-        font-size: 6.94vw;
-    }
-    
-    .metricas__div-titulo {
-        font-size: 1.38vw;
-    }
-    
-    .metricas__div-texto {
-        font-size: 1.25vw;
-    }
-}

@@ -1,7 +1,6 @@
 .vagas {
     align-items: center;
-    position: relative;
-    margin: 0 auto 2.222vw auto;
+    margin: 2.222vw auto 2.222vw auto;
 }
 
 .vagas__lista-titulo {
